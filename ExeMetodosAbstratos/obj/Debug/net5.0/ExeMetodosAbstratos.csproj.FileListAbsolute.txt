@@ -1,0 +1,16 @@
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\net5.0\ExeMetodosAbstratos.exe
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\net5.0\ExeMetodosAbstratos.deps.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\net5.0\ExeMetodosAbstratos.runtimeconfig.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\net5.0\ExeMetodosAbstratos.runtimeconfig.dev.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\net5.0\ExeMetodosAbstratos.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\net5.0\ExeMetodosAbstratos.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ExeMetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ExeMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ExeMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ExeMetodosAbstratos.AssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ExeMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ExeMetodosAbstratos.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\refint\ExeMetodosAbstratos.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ExeMetodosAbstratos.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ExeMetodosAbstratos.genruntimeconfig.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 8 - Herança e Polimorfismo\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\net5.0\ref\ExeMetodosAbstratos.dll
