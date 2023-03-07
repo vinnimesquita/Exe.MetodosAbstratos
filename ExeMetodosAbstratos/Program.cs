@@ -11,7 +11,6 @@ namespace ExeMetodosAbstratos
     {
         static void Main(string[] args)
         {
-            //IMPORTANTEEEE -- A LISTA SEMPRE É CRIADA DO TIPO DA CLASSE GENERICA, OU SEJA, CLASSE SHAPE
 
             List<Shape> list = new List<Shape>();
 
@@ -25,7 +24,7 @@ namespace ExeMetodosAbstratos
                 Console.Write("Rectangle or Circle (r/c)? ");
                 char ch = char.Parse(Console.ReadLine());
                 Console.Write("Color (Black/Blue/Red):");
-                Color color = Enum.Parse<Color>(Console.ReadLine()); // CRIA UMA CARIAVEL DO TIPO COLOR E CONVERTE A STRING QUE O USUARIO DIGITAR EM ENUMERADO PORQUE TEMOS QUE PEGAR OS ATRIBUTOS DA CLASSE COLOR(ENUMERAÇÃO)
+                Color color = Enum.Parse<Color>(Console.ReadLine()); 
 
 
                 if (ch == 'r')
@@ -48,7 +47,7 @@ namespace ExeMetodosAbstratos
             Console.WriteLine();
             Console.WriteLine("SHAPE AREAS:");
 
-            foreach (Shape shape in list) // PRA CADA SHAPE DA LISTA FAÇA
+            foreach (Shape shape in list) 
             {
                 Console.WriteLine(shape.Area().ToString("F2", CultureInfo.InvariantCulture));
             }
