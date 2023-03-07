@@ -4,7 +4,7 @@ using ExeMetodosAbstratos.Entities.Enums;
 
 namespace ExeMetodosAbstratos.Entities
 {
-    class Rectangle : Shape // PRECISAMOS IMPLEMENTAR O METODO AREA PORQUE SE NÃO DA ERRO
+    class Rectangle : Shape
     {
         public double Width { get; set; }   
         public double Height { get; set; }  
@@ -16,8 +16,7 @@ namespace ExeMetodosAbstratos.Entities
             Color = color;
         }
 
-        public override double Area() //Sobreescrita do metodo Area que pertence a classe Shape. Override para sobrepor nessa classe o metodo Area da classe Abstrata(que nao pode ser instaciada) Shape
-        {
+        public override double Area() 
             return Width * Height;  
         }
 
