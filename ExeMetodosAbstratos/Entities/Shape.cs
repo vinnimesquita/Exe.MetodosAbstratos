@@ -1,7 +1,5 @@
 ﻿using ExeMetodosAbstratos.Entities.Enums;
 
-// CLASSE GENERICA 
-// CLASSE ABSTRATA - Não pode ser instanciada
 namespace ExeMetodosAbstratos.Entities
 {
     abstract class Shape
@@ -13,7 +11,7 @@ namespace ExeMetodosAbstratos.Entities
             Color = color;
         }
 
-        public abstract double Area(); // Metodo abstrato. Não precisa colocar o Virtual para implementar em outra classe. Ele sendo abstrato é obrigado a ser implementado em outra classe
+        public abstract double Area(); 
 
 
     }
