@@ -14,7 +14,7 @@ namespace ExeMetodosAbstratos.Entities
 
         public override double Area()
         {
-            return Math.PI * Radius * Radius; // CALCULO DE RAIO. Math.PI * Raio * Raio (raio ao quadrado)
+            return Math.PI * Radius * Radius; 
         }
 
     }
